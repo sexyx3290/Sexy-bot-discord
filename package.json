@@ -1,7 +1,6 @@
 {
-  "name": "Sexy-bot-discord",
+  "name": "sexy-bot-discord",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "discord": "^0.8.2",
@@ -21,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/sexyx3290/Sexy-bot-discord/issues"
   },
-  "homepage": "https://github.com/sexyx3290/Sexy-bot-discord#readme"
+  "homepage": "https://github.com/sexyx3290/Sexy-bot-discord#readme",
+  "description": ""
 }
